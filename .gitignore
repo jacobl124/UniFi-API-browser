@@ -1,6 +1,6 @@
 # Ignore personal config files
-config/config.php
-config/users.php
+# config/config.php
+# config/users.php
 
 # ignore these files
 desktop.ini
