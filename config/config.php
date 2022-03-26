@@ -23,16 +23,16 @@
  */
 $controllers = [
     [
-        'user'     => 'make', // the username for access to the Unifi Controller
-        'password' => '2c8q3z2w', // the password for access to the Unifi Controller
+        'user'     => 'UnifiAPI', // the username for access to the Unifi Controller
+        'password' => 'D94d@cUy!ybu', // the password for access to the Unifi Controller
         'url'      => 'https://marott-unet.haywirenetworks.com:8443', // full url to the Unifi Controller, eg. 'https://22.22.11.11:8443'
         'name'     => 'Marott Haywire' // name for this controller which will be used in the dropdown menu
     ],
     [
-        'user'     => 'demo2', // the username for access to the UniFi Controller
-        'password' => 'demo2', // the password for access to the UniFi Controller
-        'url'      => 'https://demo.ui.com:443', // full url to the UniFi Controller, eg. 'https://22.22.11.11:8443'
-        'name'     => 'demo2.ubnt.com'  // name for this controller which will be used in the dropdown menu
+        'user'     => 'UnifiAPI', // the username for access to the Unifi Controller
+        'password' => 'D94d@cUy!ybu', // the password for access to the Unifi Controller
+        'url'      => 'https://buck-unet.haywirenetworks.com:8443', // full url to the Unifi Controller, eg. 'https://22.22.11.11:8443'
+        'name'     => 'Buck Haywire' // name for this controller which will be used in the dropdown menu
     ],
 ];
 
