@@ -34,6 +34,12 @@ $controllers = [
         'url'      => 'https://buck-unet.haywirenetworks.com:8443', // full url to the Unifi Controller, eg. 'https://22.22.11.11:8443'
         'name'     => 'Buck Haywire' // name for this controller which will be used in the dropdown menu
     ],
+    [
+        'user'     => 'UnifiAPI', // the username for access to the Unifi Controller
+        'password' => 'D94d@cUy!ybu', // the password for access to the Unifi Controller
+        'url'      => 'marcy-village-unet.haywirenetworks.com', // full url to the Unifi Controller, eg. 'https://22.22.11.11:8443'
+        'name'     => 'Marcy Haywire' // name for this controller which will be used in the dropdown menu
+    ],
 ];
 
 /**
